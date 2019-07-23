@@ -1,0 +1,21 @@
+RuntimeException
+
+ArithmeticException
+ClassCastException
+IllegalArgumentException
+IllegalThreadStateException
+NumberFormatException
+IndexOutOfBoundsException
+ArrayIndexOutOfBoundsException
+StringIndexOutOfBoundsException
+NegativeArraySizeException
+NullPointerException
+
+Compiletime Exception
+
+ClassNotFoundException
+IllegalAccessException
+NoSuchMethodException
+FileNotFoundException
+InterruptedIOException
+
